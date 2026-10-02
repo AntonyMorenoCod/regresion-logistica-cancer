@@ -2,7 +2,7 @@
 
 ## 📋 Descripción
 
-Este repositorio contiene el desarrollo completo de un ejercicio aplicado de **Regresión Logística** para clasificación binaria, elaborado en el marco de la **Semana 6 del CADI – Análisis y Ciencia de Datos**.
+Este repositorio contiene el desarrollo completo de un ejercicio aplicado de **Regresión Logística** para clasificación binaria.
 
 El modelo predice si un tumor mamario es **maligno (1)** o **benigno (0)** a partir de características morfológicas extraídas de imágenes digitalizadas de biopsias.
 
@@ -76,6 +76,6 @@ Se utilizó el dataset **Breast Cancer Wisconsin**, incluido en la librería Sci
 
 ## 👤 Autor
 
-**Antony Moreno**  
-CADI – Análisis y Ciencia de Datos  
+**Ferley Antonio Moreno Cruz**  
+
 Octubre 2026
